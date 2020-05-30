@@ -1,1 +1,3 @@
-# Advanced Javascript Studies 
+# Advanced Javascript Studies
+
+# Foundation
