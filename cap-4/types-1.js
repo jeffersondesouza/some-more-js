@@ -45,7 +45,7 @@ console.log("obj6:", obj6);
 
 obj6.b.deep = "xxxxx";
 /* Aqui altera pois estamos modificadno para a referência do valor na memoria */
-//  altera pois o Asung foi feito no obj5, é o hallow clone
+//  altera pois o Asung foi feito no obj5, é o shallow clone
 console.log("b:", b);
 console.log("obj5:", obj5);
 console.log("obj6:", obj6);
